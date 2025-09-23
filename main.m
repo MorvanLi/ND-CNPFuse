@@ -3,7 +3,7 @@ close all;
 clc;
 %%
 
-nums = 1;
+nums = 20;
 fused_path = './results/Lytro/';
 % r is coupling radius in this paper
 r = 16;
@@ -43,8 +43,8 @@ for i = 1:nums
     result = uint8(fused_image * 255);
 
     % Comment out this line of code if you are not displaying images
-    figure;
-    imshow(result, []);
+    % figure;
+    % imshow(result, []);
     
     % Save fused image
     fused_filename = strcat(fused_path, '/', num2str(i), '.png');
