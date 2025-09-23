@@ -16,3 +16,5 @@ pointsD3 = [(1+X:N)';(N-X+1:N)'];
 ML = abs(2*img(pointsA2)-img(pointsA1)-img(pointsA3))+abs(2*img(pointsD2)-img(pointsD1)-img(pointsD3));
 
 ML = reshape(ML,[X,Y]); 
+
+%%

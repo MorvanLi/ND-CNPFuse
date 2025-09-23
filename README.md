@@ -66,5 +66,5 @@ You can modify the `fused_path` to test the results on different datasets. For e
 ## ⚙ Implementation Details
 The proposed ND-CNPFuse runs on an Intel(R) Core(TM) i5-13400 CPU. We set the coupling radius $r$ of ND-CNPFuse to be 16 and the number of iterations $t$ to be 110.
 
-## ⚙ Note
+## 📢 Note
 We did not upload the experimental results data of all the comparison methods because they were too large. If any researcher needs the results of these comparison methods, please contact me via email: morvanli@stu.xjtu.edu.cn.
