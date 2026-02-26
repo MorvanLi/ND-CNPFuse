@@ -12,6 +12,7 @@ Neurodynamics-Driven Coupled Neural P Systems for Multi-Focus Image Fusion
 
 ## 🔥 News
 
+- **<font color='red'>[2026/02/21] 🔥🔥🔥 Our paper has been accepted at CVPR 2026 !!!</font>**
 - [2025/09/25] 🔥🔥🔥 Our github repo is released !!!
 - [2025/09/23] 🔥🔥🔥 Our paper is released!!!
 
