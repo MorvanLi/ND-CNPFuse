@@ -3,12 +3,12 @@ Neurodynamics-Driven Coupled Neural P Systems for Multi-Focus Image Fusion
 </h1>
 <p align="center">
   <!-- <a href="https://github.com/yayayacc/MUR/"><b>[🌐 PyPi Package]</b></a> • -->
-  <a href="https://arxiv.org/abs/2509.17704"><b>[📜 Paper]</b></a> •
+  <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Neurodynamics-Driven_Coupled_Neural_P_Systems_for_Multi-Focus_Image_Fusion_CVPR_2026_paper.pdf"><b>[📜 Paper]</b></a> •
   <a href="https://github.com/MorvanLi/ND-CNPFuse/"><b>[🐱 GitHub]</b></a>
 </p>
 
 <p align="center"> Repo for "Neurodynamics-Driven Coupled Neural P Systems for Multi-Focus Image Fusion</a>"</p>
-<a href="https://arxiv.org/abs/2509.17704" target="_blank">
+<a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Neurodynamics-Driven_Coupled_Neural_P_Systems_for_Multi-Focus_Image_Fusion_CVPR_2026_paper.pdf" target="_blank">
 
 ## 🔥🔥🔥 [2026/02/21] Our paper has been accepted at CVPR 2026!
 
@@ -87,10 +87,11 @@ We did not upload the experimental results data of all the comparison methods be
 ## Citation
 If you find it helpful, please kindly cite our paper.
 ```
-@article{li2025neurodynamics,
+@inproceedings{li2026neurodynamics,
   title={Neurodynamics-Driven Coupled Neural P Systems for Multi-Focus Image Fusion},
-  author={Li, Bo and Lei, Yunkuo and Bao, Tingting and Wang, Yaxian and Zhang, Lingling and Liu, Jun},
-  journal={arXiv preprint arXiv:2509.17704},
-  year={2025}
+  author={Li, Bo and Lei, Yunkuo and Bao, Tingting and Yan, Hang and Wang, Yaxian and    Fu, Weiping and Zhang, Lingling and Liu, Jun},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={26541--26550},
+  year={2026}
 }
 ```
